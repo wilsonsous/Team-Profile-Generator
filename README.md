@@ -1,6 +1,4 @@
 # Team-Profile-Generator
-# Daily-Planner
-Daily-Planner assist in organizing your schedule day within the time frame of 9am-5pm. Users are free to make edits to your day and save them at any time with an consistenly updated time/day with the help of moment.js
 
 
   # Table of Contents 
@@ -17,7 +15,7 @@ Daily-Planner assist in organizing your schedule day within the time frame of 9a
 - JAVASCRIPT
 
 ## Link
-You can view it here:
+You can view the brief here :
 
 ## Visuals
 
