@@ -1,0 +1,20 @@
+
+.team-heading {
+    background-color: red;
+    color: white;
+}
+
+.employee-card {
+    margin: 10px !important;
+}
+
+.card-header {
+    background-color: red;
+    color: white;
+}
+
+.card-deck {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: .5rem;
+}
