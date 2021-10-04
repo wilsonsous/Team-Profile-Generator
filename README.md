@@ -13,9 +13,10 @@
 - HTML
 - CSS
 - JAVASCRIPT
+- NODE.JS
 
 ## Link
-You can view the brief here :
+You can view the brief here : https://drive.google.com/file/d/1c2Uz9L_qFJVnJhDbxMD-fXRR5klSVjaB/view
 
 ## Visuals
 
