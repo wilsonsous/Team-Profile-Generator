@@ -1,5 +1,5 @@
 # Team-Profile-Generator
-
+Powered by Node.js , this application will assist in assembling a team.
 
   # Table of Contents 
   * [Technologies](#Technologies)
